@@ -4,7 +4,8 @@
 
   <head>
     <meta charset="utf-8">
-     <title>Maps</title>
+    <title>Maps</title>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/styles.css">
 
@@ -29,14 +30,12 @@
       <div id="map"></div>
 
 
-      
-
 
     </main>
 
 
     <script>
-      L.mapbox.accessToken = 'pk.eyJ1Ijoic2tzaXF1ZWlyb3MiLCJhIjoiY2s3ZTEzMmo0MDF2NDNpcG9ycnNkc2Y2bSJ9.I2XUVAY0RgV3_wC9s7yYBQ';
+      L.mapbox.accessToken = 'pk.eyJ1Ijoic2NvdHRncnViZXIiLCJhIjoiY2s3ZXZycXA3MG10bTNtcXNkMmYyN2FkaiJ9.yGYPwufAE1nLNoqq1PHWgA';
       var map = L.mapbox.map('map')
         .setView([34.069444, -118.445278], 5)
         .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
