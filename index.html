@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css">
+
+    <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css'
+      rel='stylesheet' />
+
+    <script
+      src='https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.css'
+      rel='stylesheet' />
+    <title>Maps</title>
+
+
+  </head>
+
+  <body>
+    <header>
+      <h1>Deposit Refund Systems for a More Circular Economy</h1>
+    </header>
+
+    <main>
+
+      <div id="map"></div>
+
+
+      <script>
+        L.mapbox.accessToken = 'pk.eyJ1Ijoic2tzaXF1ZWlyb3MiLCJhIjoiY2s3ZTEzMmo0MDF2NDNpcG9ycnNkc2Y2bSJ9.I2XUVAY0RgV3_wC9s7yYBQ';
+        var map = L.mapbox.map('map')
+          .setView([38.5, -122.32], 10)
+          .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+
+
+        var featureLayer = L.mapbox.featureLayer()
+          .loadURL('country-data.geojson')
+          .addTo(map);
+      </script>
+
+
+    </main>
+
+
+
+  </body>
+
+</html>
