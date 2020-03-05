@@ -1,6 +1,6 @@
 {
-   "type": "FeatureCollection",
-   "features": [
+  "type": "FeatureCollection",
+  "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -505,5 +505,7 @@ erties": {
     "properties": {
     }
   }
-]
+
+  ]
+
 }
