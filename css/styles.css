@@ -16,7 +16,7 @@ body {
   grid-template-rows: 100px 1fr 100px;
   grid-template-areas: 
   "h h h"
-  "a m m"
+  "m m m"
   "f f f"
 }
 

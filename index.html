@@ -33,12 +33,12 @@
       <script>
         L.mapbox.accessToken = 'pk.eyJ1Ijoic2tzaXF1ZWlyb3MiLCJhIjoiY2s3ZTEzMmo0MDF2NDNpcG9ycnNkc2Y2bSJ9.I2XUVAY0RgV3_wC9s7yYBQ';
         var map = L.mapbox.map('map')
-          .setView([38.5, -122.32], 2)
+          .setView([34.069444, -118.445278], 5)
           .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
 
 
         var featureLayer = L.mapbox.featureLayer()
-          .loadURL('geojson/country-data.geojson')
+          .loadURL('data/data.geojson')
           .addTo(map);
       </script>
 
