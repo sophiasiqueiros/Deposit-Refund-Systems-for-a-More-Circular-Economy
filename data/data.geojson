@@ -11,8 +11,11 @@
         ]
       },
       "properties": {
-        "Country": "Argentina",
-        "System": "deposit (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Argentina",
+        "description": "deposit (Source A)",
         "Deposit Amount": "$0.40 deposit (Source A)",
         "Containers Covered": "PET Bottles (non-refillable excluded) (Source A)",
         "Legislation": "1992 (Source A)",
@@ -31,8 +34,11 @@
         ]
       },
       "properties": {
-        "Country": "Austria",
-        "System": "voluntary deposit-refund on beverage packaging (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Austria",
+        "description": "voluntary deposit-refund on beverage packaging (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -51,8 +57,11 @@
         ]
       },
       "properties": {
-        "Country": "Belgium",
-        "System": "Containers taxed $0.52 per liter unless they have deposit (Source A); An eco-tax of 0.1 €/l on one-way and reusable beverage packaging is charged. This was intended to be refundable on return, however, the return scheme was not installed. (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Belgium",
+        "description": "Containers taxed $0.52 per liter unless they have deposit (Source A); An eco-tax of 0.1 €/l on one-way and reusable beverage packaging is charged. This was intended to be refundable on return, however, the return scheme was not installed. (AFET)",
         "Deposit Amount": "$0.12 < 50 cl deposit; $0.24 > 50 cl deposit (A)",
         "Containers Covered": "Beer, soda, and soft drinks (Source A)",
         "Legislation": "1993 (Source A)",
@@ -71,8 +80,11 @@
         ]
       },
       "properties": {
-        "Country": "Brazil",
-        "System": "Informal sector (Wen)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Brazil",
+        "description": "Informal sector (Wen)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -91,8 +103,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Alberta",
-        "System": "All containers sold in Alberta (including imports) must be registered through the Beverage Container Management Board (BCMB). (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Alberta",
+        "description": "All containers sold in Alberta (including imports) must be registered through the Beverage Container Management Board (BCMB). (Source A)",
         "Deposit Amount": "$0.05 <1 ; $0.20 >1 ; Beer $0.10 (Source A)",
         "Containers Covered": "All beverage containers regulatory except milk which is under a voluntary scheme. (Source A).",
         "Legislation": "1972 (Source A)",
@@ -111,8 +126,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-British Columbia",
-        "System": "All containers must be refillable, and none collected can be landfilled or incinerated. Beer separate system, though still under legislation (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-British Columbia",
+        "description": "All containers must be refillable, and none collected can be landfilled or incinerated. Beer separate system, though still under legislation (Source A)",
         "Deposit Amount": "Non-alcoholic $0.05 <1 l $0.10> 1 ; Alcoholic (not incl. beer) $0.10 < 1 ; $0.20 >1 ; Beer $1.2 per dozen (Source A)",
         "Containers Covered": "All beverage containers except milk, soya milk, infant formulas, dietary or meal supplements, or other milk substitutes. (A)",
         "Legislation": "1970 (Source A)",
@@ -131,8 +149,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Manitoba",
-        "System": "Beverage producers given option of setting up deposit-return system, or adding a 2 cent per container levy. Only beer producers choose the former. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Manitoba",
+        "description": "Beverage producers given option of setting up deposit-return system, or adding a 2 cent per container levy. Only beer producers choose the former. (Source A)",
         "Deposit Amount": "$0.10 (Source A)",
         "Containers Covered": "Beer containers only (Source A)",
         "Legislation": "1995 (Source A)",
@@ -151,8 +172,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-New Brunswick",
-        "System": "Deposits paid on all containers (bar milk), but whilst full paid back on refillables, only half paid back on non-refillables. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-New Brunswick",
+        "description": "Deposits paid on all containers (bar milk), but whilst full paid back on refillables, only half paid back on non-refillables. (Source A)",
         "Deposit Amount": "<0.5 $0.10 ; >0.5 $0.20 (Source A)",
         "Containers Covered": "All except milk (Source A)",
         "Legislation": "1992, Revised 1999 (Source A)",
@@ -171,8 +195,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Newfoundland",
-        "System": "Half-back system, with manufacturers prohibited from selling containers other than recyclable or refillable for selected products. Beer operated separately, run by brewers. Only have to refund when customer buying (1 for 1), otherwise negotiable. (A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Newfoundland",
+        "description": "Half-back system, with manufacturers prohibited from selling containers other than recyclable or refillable for selected products. Beer operated separately, run by brewers. Only have to refund when customer buying (1 for 1), otherwise negotiable. (A)",
         "Deposit Amount": "Non-alcoholic $0.08 ($0.04 back) Alcoholic (excluding beer) $0.20 ($0.10 back) Beer varies -full refund when same number of beer bought as empties returned. (A)",
         "Containers Covered": "Beverage containers smaller than 5l, excluding milk, dietary supplements and medicine. (Source A)",
         "Legislation": "1997 (Source A)",
@@ -191,8 +218,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Northwest Territory",
-        "System": "Deposit-return system, with additional handling charges for different products/ materials in container. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Northwest Territory",
+        "description": "Deposit-return system, with additional handling charges for different products/ materials in container. (Source A)",
         "Deposit Amount": "Wine or spirit $0.25 Other $0.10 Plus additional $0.05-0.10 handling fee (Source A)",
         "Containers Covered": "All beverage containers except milk (Source A)",
         "Legislation": "2005 (Source A)",
@@ -211,8 +241,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Novia Scotia",
-        "System": "Half-back deposit system. Full refund on refillables, half on non-refillables. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Novia Scotia",
+        "description": "Half-back deposit system. Full refund on refillables, half on non-refillables. (Source A)",
         "Deposit Amount": "Non-alcoholic $0.10 ; Alc. refillable <1 $0.10 , >1 $0.20 ; Alc. non-refillable <0.5 $0.10, >0.5 $0.20 (Source A)",
         "Containers Covered": "All beverage containers except milk (Source A)",
         "Legislation": "",
@@ -231,8 +264,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Ontario",
-        "System": "Deposit-return system on alcoholic drinks containers only. Use of ‘Industry Standard Bottle’. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Ontario",
+        "description": "Deposit-return system on alcoholic drinks containers only. Use of ‘Industry Standard Bottle’. (Source A)",
         "Deposit Amount": "Containers up to 630 ml, or metal containers up to 1 $0.10 ; Over those sizes $0.20 (Source A)",
         "Containers Covered": "Alcoholic drink containers (Source A)",
         "Legislation": "",
@@ -251,8 +287,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Prince Edward Island",
-        "System": "Non-refillable drinks containers for beer or soft drinks banned since 1977. Wine may have half-back system in place. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Prince Edward Island",
+        "description": "Non-refillable drinks containers for beer or soft drinks banned since 1977. Wine may have half-back system in place. (Source A)",
         "Deposit Amount": "Non-al <0.5 $0.15; 0.5 -1 $0.30 ; >1 $0.70 ; Alc. $1.20 per dozen, or ).07 each (Source A)",
         "Containers Covered": "Soft drinks and alcoholic drinks. Wine may be included. (Source A)",
         "Legislation": "1977 ban, 1984 deposit (Source A)",
@@ -271,8 +310,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Quebec",
-        "System": "Return-to-retail deposit system, with industry required to fund kerbside collection for containers not part of the system. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Quebec",
+        "description": "Return-to-retail deposit system, with industry required to fund kerbside collection for containers not part of the system. (Source A)",
         "Deposit Amount": "Soft drinks and beer cans $0.05 ; Beer bottles $0.10 ; Beer bottles and soft drinks >450ml $0.20 (Source A)",
         "Containers Covered": "All beer and soft drinks containers (not juice, water and iced tea) (Source A)",
         "Legislation": "",
@@ -291,8 +333,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Saskatchewan",
-        "System": "Deposit-return system plus environmental handling charge (EHC) for non- refillable containers, for recycling, and beer bottle deposit system for refillables (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Saskatchewan",
+        "description": "Deposit-return system plus environmental handling charge (EHC) for non- refillable containers, for recycling, and beer bottle deposit system for refillables (Source A)",
         "Deposit Amount": "Deposits vary widely for diff. materials and sizes ; Non-ref. glass $0.40-1.00 ; Metal cans $0.10-0.20 (Source A)",
         "Containers Covered": "All beverage containers apart from milk (under voluntary system) (Source A)",
         "Legislation": "1973- Litter Control Regulations (unclear, appears the deposit system introduced to this in 1998) (Source A)",
@@ -311,8 +356,11 @@
         ]
       },
       "properties": {
-        "Country": "Canada-Yukon",
-        "System": "No kerbside collection. Deposit-return system, with ‘recycling club’ for children offering ‘prizes’ as well as refund if certain numbers reached. Refillables not charged recycling fund fee, all others are. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Canada-Yukon",
+        "description": "No kerbside collection. Deposit-return system, with ‘recycling club’ for children offering ‘prizes’ as well as refund if certain numbers reached. Refillables not charged recycling fund fee, all others are. (Source A)",
         "Deposit Amount": "D=deposit, R=refund Liquor ref. D=$0.10 R=$0.10 ; Liquor non <0.5 D=$0.15 R=$0.10 ; >0.5 D=$0.35 R=$0.25 (Source A)",
         "Containers Covered": "All beverage containers except milk (Source A)",
         "Legislation": "1998 (Source A)",
@@ -331,8 +379,11 @@
         ]
       },
       "properties": {
-        "Country": "China",
-        "System": "Informal system of collectors (Kuo) ; 2006 plan for the construction of Recyclables' Collection System etc (See google docs) (Kuo)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "China",
+        "description": "Informal system of collectors (Kuo) ; 2006 plan for the construction of Recyclables' Collection System etc (See google docs) (Kuo)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -351,8 +402,11 @@
         ]
       },
       "properties": {
-        "Country": "Croatia",
-        "System": "Deposit-return plus \"incentive fee\" to be paid by producerif 50% refill isn't met (5% paid still, if target is met) A",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Croatia",
+        "description": "Deposit-return plus \"incentive fee\" to be paid by producerif 50% refill isn't met (5% paid still, if target is met) A",
         "Deposit Amount": "",
         "Containers Covered": "Glass, PET and metal containers for beer, soft drinks, water, wine, and spirits (A)",
         "Legislation": "2005 (Source A)",
@@ -371,8 +425,11 @@
         ]
       },
       "properties": {
-        "Country": "Cyrpus",
-        "System": "Deposit-return system for reusable containers, with legal provisions--the only voluntary deposit on beer glass bottle may end in future (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Cyrpus",
+        "description": "Deposit-return system for reusable containers, with legal provisions--the only voluntary deposit on beer glass bottle may end in future (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -391,8 +448,11 @@
         ]
       },
       "properties": {
-        "Country": "Czech Republic",
-        "System": "deposit-return system for reusable containers w/ legal provisions (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Czech Republic",
+        "description": "deposit-return system for reusable containers w/ legal provisions (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -411,8 +471,11 @@
         ]
       },
       "properties": {
-        "Country": "Denmark",
-        "System": "All beers and soft drinks must be sold in refillable bottles & deposit (Source A); deposit-refund",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Denmark",
+        "description": "All beers and soft drinks must be sold in refillable bottles & deposit (Source A); deposit-refund",
         "Deposit Amount": "€0.13 Type A – Cans, plastic and glass bottles <0.5; €0.20 Type B – Plastic bottles @0.5; €0.40 Type C – Cans, plastic and glass bottles >0.5 (Source A)",
         "Containers Covered": "Imported glass/plastic containers (Source A)",
         "Legislation": "Packaging Law, Regulatory Deposit, Ecotax of 1989 (and amended 1991) (Source A)",
@@ -431,8 +494,11 @@
         ]
       },
       "properties": {
-        "Country": "Estonia",
-        "System": "Deposit-return at retailers (Source A); deposit-refund system on beverage packaging voluntary reusable containers, mandatory one-way containers, if the target is not met excise duty paid (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Estonia",
+        "description": "Deposit-return at retailers (Source A); deposit-refund system on beverage packaging voluntary reusable containers, mandatory one-way containers, if the target is not met excise duty paid (AFET)",
         "Deposit Amount": "Glass 1.0 kroon (refill and NRB) Metal and PET < 0.5; 0.5 kroons; PET>0.5 1kroon (Source A)",
         "Containers Covered": "Beer, low alcohol drinks, carbonated/non-carbonated soft drinks, water, juice, cider, and perry (A)",
         "Legislation": "2004 (Source A)",
@@ -451,8 +517,11 @@
         ]
       },
       "properties": {
-        "Country": "Federal States of Mircronesia",
-        "System": "Kosrae Recycling Program & Deposit-Return (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Federal States of Mircronesia",
+        "description": "Kosrae Recycling Program & Deposit-Return (Source A)",
         "Deposit Amount": "$0.06 ($0.05 back) (Source A)",
         "Containers Covered": "aluminum cans only; glass & plastic expected soon (Source A)",
         "Legislation": "1991, amended 2006 (Source A)",
@@ -471,8 +540,11 @@
         ]
       },
       "properties": {
-        "Country": "Finland",
-        "System": "Tax on beverage containers. Excemption from tax only if part of refilalble deposit scheme (Source A); 2004 Beverage Packaging Tax--until 2005 only refillable bottles exempt if in deposit system, 2008 one-way exempt (Ettlinger); Deposit refund system since 1950 w/ glass, 2008 one-way bottles, reverse vending machine, EUR 0.51 per litre for all drinks packaging not in deposit (Ettlinger); aluminum cans, PET, glass (Kuo); consumers takes to shops, kiosks, hotels, restaurants, offices, schools, and other organizations return (Kuo); resuable containers deposit with legal provisions, one-way voluntary, The Finish industry \"voluntarily\" chose to implement a deposit system to avoid a packaging tax. (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Finland",
+        "description": "Tax on beverage containers. Excemption from tax only if part of refilalble deposit scheme (Source A); 2004 Beverage Packaging Tax--until 2005 only refillable bottles exempt if in deposit system, 2008 one-way exempt (Ettlinger); Deposit refund system since 1950 w/ glass, 2008 one-way bottles, reverse vending machine, EUR 0.51 per litre for all drinks packaging not in deposit (Ettlinger); aluminum cans, PET, glass (Kuo); consumers takes to shops, kiosks, hotels, restaurants, offices, schools, and other organizations return (Kuo); resuable containers deposit with legal provisions, one-way voluntary, The Finish industry \"voluntarily\" chose to implement a deposit system to avoid a packaging tax. (AFET)",
         "Deposit Amount": "Non-refillables: €0.15 cans; €0.10 plastic bottles <0.35; €0.20 plastic bottles 0.35-1; €0.40 plastic bottles >1; Tax $0.24 beer $0.47 plastic $0.71 glass (A); EUR 0.10 all glass bottles (Ettlinger)",
         "Containers Covered": "One-way beer and soft drink containers",
         "Legislation": "1970s, amended 1990 (Source A)",
@@ -491,8 +563,11 @@
         ]
       },
       "properties": {
-        "Country": "Germany",
-        "System": "Einwegpfand Deposit on one-way a standard amount, deposit on refillables manufacturer dependent, not legally specified, though tend to be similar (A); Recycle and Waste Material Control Act of 2003 (Hsiao); reusable with legal provisions, one-way mandatory deposit (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Germany",
+        "description": "Einwegpfand Deposit on one-way a standard amount, deposit on refillables manufacturer dependent, not legally specified, though tend to be similar (A); Recycle and Waste Material Control Act of 2003 (Hsiao); reusable with legal provisions, one-way mandatory deposit (AFET)",
         "Deposit Amount": "For one-way: ≤1.5 €0.25; >1.5 €0.50 (Source A); uniform deposit amount of 25 cents on all one-way containers, whereas for multi-way (such as glass bottles or multi-way PET containers) it is usually 8 cents (STRACKE)",
         "Containers Covered": "Not containers for wine, fruit juice, or spirits (Source A)",
         "Legislation": "2003 (Source A); 1991 Verpackungsverordnung (short VerpackV packaging regulation) , 2003 nationwide bottle-despoit-refund-service (Stracke)",
@@ -511,8 +586,11 @@
         ]
       },
       "properties": {
-        "Country": "Hungary",
-        "System": "Tax linked to market share quotas (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Hungary",
+        "description": "Tax linked to market share quotas (Source A)",
         "Deposit Amount": "",
         "Containers Covered": "Beer, low-alcohol drinks, wine, mineral water, carbonated and non-carbonated soft drinks (Source A)",
         "Legislation": "2005 (Source A)",
@@ -531,8 +609,11 @@
         ]
       },
       "properties": {
-        "Country": "Iceland",
-        "System": "Tax on non-refillable containers (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Iceland",
+        "description": "Tax on non-refillable containers (Source A)",
         "Deposit Amount": "",
         "Containers Covered": "Non-refillable glass, steel, aluminum, and plastic (Source A)",
         "Legislation": "2008 (Source A)",
@@ -551,8 +632,11 @@
         ]
       },
       "properties": {
-        "Country": "Japan",
-        "System": "\"The Containers and Packaging Recycling Law\" (Wen); 1995 Law for Promotion of Sorted Collection & Recycling of Containers & Packaging (Amano); general taxes to establish a waste governance system resting on consumers’ responsibility (Takahashi); curbside collection with some consumer responsibility ( Takahashi)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Japan",
+        "description": "\"The Containers and Packaging Recycling Law\" (Wen); 1995 Law for Promotion of Sorted Collection & Recycling of Containers & Packaging (Amano); general taxes to establish a waste governance system resting on consumers’ responsibility (Takahashi); curbside collection with some consumer responsibility ( Takahashi)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -571,8 +655,11 @@
         ]
       },
       "properties": {
-        "Country": "Latvia",
-        "System": "Deposit-refund system on beverage packaging with legal provisions--reusable containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Latvia",
+        "description": "Deposit-refund system on beverage packaging with legal provisions--reusable containers (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -591,8 +678,11 @@
         ]
       },
       "properties": {
-        "Country": "Lithuania",
-        "System": "Deposit-refund system on beverage packaging with legal provisions--reusable containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Lithuania",
+        "description": "Deposit-refund system on beverage packaging with legal provisions--reusable containers (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -611,8 +701,11 @@
         ]
       },
       "properties": {
-        "Country": "Malta",
-        "System": "Deposit return system; previous ban of non-glass beverage containers lifted (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Malta",
+        "description": "Deposit return system; previous ban of non-glass beverage containers lifted (Source A)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -631,8 +724,11 @@
         ]
       },
       "properties": {
-        "Country": "Mexico",
-        "System": "Higher tax on non-refillable bottles and cans (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Mexico",
+        "description": "Higher tax on non-refillable bottles and cans (Source A)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "Management Plan for PET Packaging Waste est. 2002 (Shwanse)",
@@ -651,8 +747,11 @@
         ]
       },
       "properties": {
-        "Country": "Netherlands",
-        "System": "Agreement deposit (Source A); There are voluntary systems for glass beer bottles and large PET bottles (reusable and one-way). The main instrument is a packaging tax. (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Netherlands",
+        "description": "Agreement deposit (Source A); There are voluntary systems for glass beer bottles and large PET bottles (reusable and one-way). The main instrument is a packaging tax. (AFET)",
         "Deposit Amount": "PET and glass: $0.16 <0.5 & $0.72>0.5 (Source A)",
         "Containers Covered": "Soft drinks and water in one-way and refillable glass and PET containers (Source A)",
         "Legislation": "",
@@ -671,8 +770,11 @@
         ]
       },
       "properties": {
-        "Country": "Norway",
-        "System": "Deposit on containers and tax dependent on return rate. Refillables only exempt if 95% return rate is achieved. Retailers (on site >25m2) selling non- refillables, must also sell similar products in refillable.(A); deposit-refund system on beverage packaging mandatory for one-way containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Norway",
+        "description": "Deposit on containers and tax dependent on return rate. Refillables only exempt if 95% return rate is achieved. Retailers (on site >25m2) selling non- refillables, must also sell similar products in refillable.(A); deposit-refund system on beverage packaging mandatory for one-way containers (AFET)",
         "Deposit Amount": "$0.16 <0.5 & $0.40 >0.5 l (+Tax inversely proportional to return rate, but if above 95%, no tax) (A)",
         "Containers Covered": "Most drinks, excluding milk, vegetable juices, and water (Source A)",
         "Legislation": "1994 (Source A)",
@@ -691,8 +793,11 @@
         ]
       },
       "properties": {
-        "Country": "Peru",
-        "System": "Deposit on some bottles (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Peru",
+        "description": "Deposit on some bottles (Source A)",
         "Deposit Amount": "",
         "Containers Covered": "620 ml size beer bottles (Source A)",
         "Legislation": "",
@@ -711,8 +816,11 @@
         ]
       },
       "properties": {
-        "Country": "Poland",
-        "System": "Deposit-refund system on beverage packaging voluntary for reusable containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Poland",
+        "description": "Deposit-refund system on beverage packaging voluntary for reusable containers (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -731,8 +839,11 @@
         ]
       },
       "properties": {
-        "Country": "Portugal",
-        "System": "Fillers must ensure quotas met. Retailers must sell refillables for all non-refillables sold. (Source A); Packaging Waste Target of 70%, Plastic Packaging Waste Target of 42% (Freitas)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Portugal",
+        "description": "Fillers must ensure quotas met. Retailers must sell refillables for all non-refillables sold. (Source A); Packaging Waste Target of 70%, Plastic Packaging Waste Target of 42% (Freitas)",
         "Deposit Amount": "",
         "Containers Covered": "Quotas: 80% Beer, 65% Wine (with some exceptions), 30% Soft-drinks (Source A)",
         "Legislation": "",
@@ -751,8 +862,11 @@
         ]
       },
       "properties": {
-        "Country": "Slovakia",
-        "System": "Deposit-refund system on beverage packaging for reusable containers, legal provisions, one-way containers mandatory (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Slovakia",
+        "description": "Deposit-refund system on beverage packaging for reusable containers, legal provisions, one-way containers mandatory (AFET)",
         "Deposit Amount": "The deposit on one-way packing is zero (0) € (AFET)",
         "Containers Covered": "",
         "Legislation": "",
@@ -771,8 +885,11 @@
         ]
       },
       "properties": {
-        "Country": "Slovenia",
-        "System": "Deposit-refund on beverage packaging for resusable containers legal provisions, Reusable packaging is exempt from waste management levy and environmental tax. Voluntary deposit on reusable glass. (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Slovenia",
+        "description": "Deposit-refund on beverage packaging for resusable containers legal provisions, Reusable packaging is exempt from waste management levy and environmental tax. Voluntary deposit on reusable glass. (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -791,8 +908,11 @@
         ]
       },
       "properties": {
-        "Country": "South Africa",
-        "System": "Voluntary deposit return system (manufactuer driven not government) (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "South Africa",
+        "description": "Voluntary deposit return system (manufactuer driven not government) (Source A)",
         "Deposit Amount": "Between 8-15% of product cost (or 0.5-1% if wine/spirit) (Source A)",
         "Containers Covered": "Beer, soft drinks, some wine & spirits bottles (Source A)",
         "Legislation": "Around 1948 (Source A)",
@@ -811,8 +931,11 @@
         ]
       },
       "properties": {
-        "Country": "South Australia",
-        "System": "Container Deposit Legislation- deposit required on almost all drinks containers, with onus on manufacturer/ wholesaler to ensure convenient system in place for deposit of container/ refunds for customers. (A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "South Australia",
+        "description": "Container Deposit Legislation- deposit required on almost all drinks containers, with onus on manufacturer/ wholesaler to ensure convenient system in place for deposit of container/ refunds for customers. (A)",
         "Deposit Amount": "$0.10 if refillable to retailer (rare) $0.05 if refillable to collection depot (99.9% done this way) (Source A)",
         "Containers Covered": "Most included except wine (unless in plastic bottle), milk, pure fruit juice or flavoured milk >1l.(Source A)",
         "Legislation": "1975 (integrated into Environment Protection Act in 1993) (Source A)",
@@ -831,8 +954,11 @@
         ]
       },
       "properties": {
-        "Country": "Spain",
-        "System": "If recovery/recycling targets are not met a tax applies. (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Spain",
+        "description": "If recovery/recycling targets are not met a tax applies. (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -851,8 +977,11 @@
         ]
       },
       "properties": {
-        "Country": "Sweden",
-        "System": "Law requires rate of 90% recycling of aluminum cans, or complete bans. Industry implemented deposit system to avoid this. PET deposit introduced later. (Source A); open-loop recycling for plastic packaging, closed-loop recycling for PET bottles (Freitas), PET bottle recycling target 90% (Freitas); 2 types of beverage container returns: refillable glass bottles & metal/PET run by 3 companies (Kuo); Ordinance on the return system for plastic bottles and plastic cans (SFS 2005:220), regulation on producer responsibility for packaging (SFS 2006:1273) (Kuo); Deposit-refund system on beverage packaging voluntary for reusable containers, mandatory for one-way containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Sweden",
+        "description": "Law requires rate of 90% recycling of aluminum cans, or complete bans. Industry implemented deposit system to avoid this. PET deposit introduced later. (Source A); open-loop recycling for plastic packaging, closed-loop recycling for PET bottles (Freitas), PET bottle recycling target 90% (Freitas); 2 types of beverage container returns: refillable glass bottles & metal/PET run by 3 companies (Kuo); Ordinance on the return system for plastic bottles and plastic cans (SFS 2005:220), regulation on producer responsibility for packaging (SFS 2006:1273) (Kuo); Deposit-refund system on beverage packaging voluntary for reusable containers, mandatory for one-way containers (AFET)",
         "Deposit Amount": "Voluntary Cans $0.07, Refillable PET $0.56, & One-way PET $0.14- 0.24 (Source A); 1 Swedish Krona (SEK) for aluminium cans as well as for PET bottles up to 1L, and 2 SEK for PET bottles over 1L (STRACKE)",
         "Containers Covered": "Most beverage containers (Source A)",
         "Legislation": "Act on Certain Beverage Containers of 1991, The Ordinance on Producer’s Responsibility for Packaging of 1994 (Amano); Deposit on one-way containers- 1984 for cans. 1994 for PET (refillables already in place) (A); Act on Certain Beverage Containers of 1991-Amended 1993-Require fillers of PET bottles to participate in a recycling system and mark container accordingly-2005: separate laws for aluminum and PET merged-1984--Swedish gov’t requires industry to recycle at least 90% of aluminum cans to avoid general ban (STRACKE)",
@@ -871,8 +1000,11 @@
         ]
       },
       "properties": {
-        "Country": "Switzerland",
-        "System": "Deposits required on all refillable drinks containers except cans, which have a voluntary tax of $0.04 (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Switzerland",
+        "description": "Deposits required on all refillable drinks containers except cans, which have a voluntary tax of $0.04 (Source A)",
         "Deposit Amount": "Ref. glass $0.16<0.6; $0.40 >0.6; Ref and one-way PET $0.40>1.5 (Source A)",
         "Containers Covered": "Currently all containers (Source A)",
         "Legislation": "1990 (Source A)",
@@ -891,8 +1023,11 @@
         ]
       },
       "properties": {
-        "Country": "Taiwan",
-        "System": "1989 recycling program modelled afterr Germany's DSD--manufacturers and retailors pay disposal fees to gov't who recycles through local gov't help (Hsiao)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "Taiwan",
+        "description": "1989 recycling program modelled afterr Germany's DSD--manufacturers and retailors pay disposal fees to gov't who recycles through local gov't help (Hsiao)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "\"Solid Waste Disposal Act\" of 1988: \"Hsi-Fu Recycling Project\" (Yang); Waste Disposal Act (Hsiao)",
@@ -911,8 +1046,11 @@
         ]
       },
       "properties": {
-        "Country": "United Kingdom-Scotland",
-        "System": "Voluntary deposit refund on reusable beverage packaging exists only in Scotland--voluntary for reusable containers (AFET)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "United Kingdom-Scotland",
+        "description": "Voluntary deposit refund on reusable beverage packaging exists only in Scotland--voluntary for reusable containers (AFET)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -925,11 +1063,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": {}
+        "coordinates": [ 
+          -100,
+            40  
+        ]
       },
       "properties": {
-        "Country": "USA (total)",
-        "System": "No nationwide law, 11 statewide laws with deposit-return (Wen); 3/11 state laws include PET water bottles (Container Recycling Institute); 3 methods (curbside collection, buy-back recycling centers. bottle bills) (Wen)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA (total)",
+        "description": "No nationwide law, 11 statewide laws with deposit-return (Wen); 3/11 state laws include PET water bottles (Container Recycling Institute); 3 methods (curbside collection, buy-back recycling centers. bottle bills) (Wen)",
         "Deposit Amount": "",
         "Containers Covered": "",
         "Legislation": "",
@@ -948,8 +1092,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-California",
-        "System": "California Beverage Container Recycling and Litter Reduction Act, Deposit-return system on non-refillable containers (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-California",
+        "description": "California Beverage Container Recycling and Litter Reduction Act, Deposit-return system on non-refillable containers (Source A)",
         "Deposit Amount": "Under 24oz $0.05 ; Over 24oz $0.10 (Source A)",
         "Containers Covered": "Non-refillable drinks containers, inc. beer, spirits, carbonated, fruit drinks and some vegetable juices. Not milk. (Source A)",
         "Legislation": "1987 (Expanded 2000 to include all non- carbonated and non- alcoholic drinks excluding milk.) (Source A)",
@@ -968,8 +1115,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Connecticut",
-        "System": "Beverage Container Deposit and Redemption Law Deposit-return system. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Connecticut",
+        "description": "Beverage Container Deposit and Redemption Law Deposit-return system. (Source A)",
         "Deposit Amount": "$0.05 (Source A)",
         "Containers Covered": "Beer, malt, soft drinks, and mineral water (Source A)",
         "Legislation": "1980 (Source A)",
@@ -988,8 +1138,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Delaware",
-        "System": "Beverage Container Legislation Deposit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Delaware",
+        "description": "Beverage Container Legislation Deposit-return system (Source A)",
         "Deposit Amount": "$0.05 (Source A)",
         "Containers Covered": "All non-aluminium beer, malt, carbonated, mineral water and soda water containers less than 2 quarts (approx. 1.9l). (Source A)",
         "Legislation": "1982 Wholesale, 1983 Retail (Source A)",
@@ -1008,8 +1161,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Hawaii",
-        "System": "Deposit Beverage Container Law Deposit-Return System (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Hawaii",
+        "description": "Deposit Beverage Container Law Deposit-Return System (Source A)",
         "Deposit Amount": "$0.05 (Source A)",
         "Containers Covered": "All beverage containers excluding milk and dairy derived products, except tea and coffee or liquor containers. (Source A)",
         "Legislation": "2002 (Source A)",
@@ -1028,8 +1184,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Iowa",
-        "System": "Beverage Container Deposit Law, Deposit Return-System. Deposit containers banned from landfill in 1990. (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Iowa",
+        "description": "Beverage Container Deposit Law, Deposit Return-System. Deposit containers banned from landfill in 1990. (Source A)",
         "Deposit Amount": "Not less than $0.05 (Source A)",
         "Containers Covered": "Beer, soft drinks, soda water, mineral water, wine, liquor and wine, coolers. (Source A)",
         "Legislation": "1979 (Source A)",
@@ -1048,8 +1207,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Maine",
-        "System": "Refillable Beverage Container Law Deposit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Maine",
+        "description": "Refillable Beverage Container Law Deposit-return system (Source A)",
         "Deposit Amount": "$0.15, Other $0.05 (Source A)",
         "Containers Covered": "cooler, mineral water. Expanded to include wine, liquor, water and non-alcoholic drinks in 1989 (Source A)",
         "Legislation": "",
@@ -1068,8 +1230,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Masachusetts",
-        "System": "Beverage Container Recovery Law Depsoit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Masachusetts",
+        "description": "Beverage Container Recovery Law Depsoit-return system (Source A)",
         "Deposit Amount": "$0.05 (Source A)",
         "Containers Covered": "Beer, soft drinks, and carbonated wtaer (Source A)",
         "Legislation": "1983 (Source A)",
@@ -1088,8 +1253,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Michigan",
-        "System": "MIchigan Beverage Container Act , Deposit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Michigan",
+        "description": "MIchigan Beverage Container Act , Deposit-return system (Source A)",
         "Deposit Amount": "$0.10 (Source A)",
         "Containers Covered": "Beer, soft drinks, carbonated and mineral water. Wine coolers and canned cocktails in 1988. (Source A)",
         "Legislation": "1978 (Source A)",
@@ -1108,8 +1276,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-New York",
-        "System": "New York Refillable Container Law; Deposit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-New York",
+        "description": "New York Refillable Container Law; Deposit-return system (Source A)",
         "Deposit Amount": "Minimum of $0.05 (Source A)",
         "Containers Covered": "Beer and other malt drinks, carbonated soft drinks, wine coolers, mineral and soda waters. (Source A)",
         "Legislation": "1983 (Source A)",
@@ -1128,8 +1299,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Oregon",
-        "System": "The Beverage Container Act; Deposit-return system; Only US deposit law with no handling fee (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Oregon",
+        "description": "The Beverage Container Act; Deposit-return system; Only US deposit law with no handling fee (Source A)",
         "Deposit Amount": "Standardized refill bottles $0.02 Non-standardized and non-refillable $0.05 (Source A)",
         "Containers Covered": "Beer, malt, carbonated soft drinks, mineral and soda water and (as of 2009) water and flavoured water. Bottles and cans under 3L (Source A)",
         "Legislation": "1972 (Source A)",
@@ -1148,8 +1322,11 @@
         ]
       },
       "properties": {
-        "Country": "USA-Vermont",
-        "System": "Beverage Container Law; Depsoit-return system (Source A)",
+        "marker-size": "large",
+        "marker-symbol": "waste-basket",
+        "marker-color": "#2774ae",
+        "title": "USA-Vermont",
+        "description": "Beverage Container Law; Depsoit-return system (Source A)",
         "Deposit Amount": "Liquor above 50ml $0.15 Other $0.05 (Source A)",
         "Containers Covered": "Beer, soft drinks, malt, soda and mineral water, mixed wine and liquor (added 1987). (Source A)",
         "Legislation": "1973 (Source A)",
