@@ -17,8 +17,6 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css'
       rel='stylesheet' />
 
-
-
   </head>
 
   <body>
@@ -31,23 +29,23 @@
       <div id="map"></div>
 
 
-      <script>
-        L.mapbox.accessToken = 'pk.eyJ1Ijoic2tzaXF1ZWlyb3MiLCJhIjoiY2s3ZTEzMmo0MDF2NDNpcG9ycnNkc2Y2bSJ9.I2XUVAY0RgV3_wC9s7yYBQ';
-        var map = L.mapbox.map('map')
-          .setView([34.069444, -118.445278], 5)
-          .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
-
-
-        var featureLayer = L.mapbox.featureLayer()
-          .loadURL('../data/data.geojson')
-          .addTo(map);
-      </script>
+      
 
 
     </main>
 
 
+    <script>
+      L.mapbox.accessToken = 'pk.eyJ1Ijoic2tzaXF1ZWlyb3MiLCJhIjoiY2s3ZTEzMmo0MDF2NDNpcG9ycnNkc2Y2bSJ9.I2XUVAY0RgV3_wC9s7yYBQ';
+      var map = L.mapbox.map('map')
+        .setView([34.069444, -118.445278], 5)
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
 
+
+      var featureLayer = L.mapbox.featureLayer()
+        .loadURL('../data/data.geojson')
+        .addTo(map);
+    </script>
   </body>
 
 </html>
