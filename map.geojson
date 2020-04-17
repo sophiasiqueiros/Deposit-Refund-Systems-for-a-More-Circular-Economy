@@ -13,7 +13,7 @@
       "properties": {
         "marker-size": "large",
         "marker-symbol": "waste-basket",
-        "marker-color": "#2774ae",
+        "marker-color": "#ffb300",
         "title": "Argentina",
         "description": "deposit (Source A)",
         "Deposit Amount": "$0.40 deposit (Source A)",
@@ -1063,9 +1063,9 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -100,
-            40  
+            40
         ]
       },
       "properties": {
