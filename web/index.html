@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Map | Deposit Refund Systems</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css" rel="stylesheet" />
+
+    <style>
+      
+      body {
+        display: grid;
+      }
+
+      header {
+        grid-row: 1;
+      }
+
+      main {
+        grid-row: 2;
+       
+       
+      }
+
+      #map { 
+        width: 80vw;
+        min-height: 100vh;
+        margin: auto;
+        outline: 3px solid #00bd30;
+       }
+
+    </style>
+
+
+  </head>
+
+  <body>
+    <header>
+      <h1>Deposit Refund Systems for a More Circular Economy</h1>
+    </header>
+
+    <main>
+   
+      <div id="map" class="map"></div>
+
+
+
+    </main>
+
+
+
+    <script>
+
+mapboxgl.accessToken = 'pk.eyJ1IjoidWNsYWlvZXMiLCJhIjoiY2thYnE5Njd0MHp4bTJ1bWdxZjd2Mzd2YyJ9.mMldDfE2SSFNrFhxr3ZLag';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+center: [-118.445278, 34.069444], // starting position [lng, lat]
+zoom: 9 // starting zoom
+});
+
+      
+
+    </script>
+
+  </body>
+
+</html>
