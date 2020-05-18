@@ -47,6 +47,15 @@
         cursor: pointer;
       }
 
+      .mapboxgl-popup {
+        max-width: 200px;
+      }
+
+      .mapboxgl-popup-content {
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+      }
+
     </style>
 
 
@@ -86,7 +95,7 @@
           './img/waste-basket@2x.png',
           function (error, image) {
             if (error) throw error;
-            map.addImage('waste-basket', image);
+            map.addImage('icon-marker', image);
 
             map.addSource('recycle', {
               type: 'geojson',
@@ -100,10 +109,10 @@
               'layout': {
                 // get the icon name from the source's "icon" property
                 // concatenate the name to get an icon from the style's sprite sheet
-                'icon-image': 'waste-basket',
+                'icon-image': 'icon-marker',
                 // get the title name from the source's "title" property
                 'text-field': ['get', 'title'],
-                'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                'text-font': ['Roboto Medium'],
                 'text-offset': [0, 1.6],
                 'text-anchor': 'top'
               }
