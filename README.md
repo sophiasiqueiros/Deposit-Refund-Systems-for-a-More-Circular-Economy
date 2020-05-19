@@ -3,6 +3,22 @@
 
 ## How to use
 
+### Create Google sheet
+1. name columns
+1. add data
+1. each url needs a name and a url column
+1. each row is a different record
+1. export to csv
+
+### Create GeoJSON from csv
+1. download csv to your computer
+1. upload file [Convert CSV to GeoJSON](http://convertcsv.com/csv-to-geojson.htm)
+1. convert to geojson
+1. download and name file with date
+
+### Add GeoJSON and csv to github repository
+
+### To add map TBD
 
 ## GeoJSON Links
 * [GeoJSON.org](http://geojson.org/)
