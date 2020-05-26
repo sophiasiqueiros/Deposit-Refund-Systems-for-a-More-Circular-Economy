@@ -10,7 +10,7 @@
 
 ### Convert csv to GeoJSON 
 1. Upload csv file to [Convert CSV to GeoJSON](http://convertcsv.com/csv-to-geojson.htm)
-1. Download GeoJSON to computer, upload to GitHub, and name with date. (On GitHub click "data" > "upload files" > save name under "commit changes") 
+1. Download GeoJSON to computer, upload to GitHub, and name with date. (On GitHub click "data" > "upload files" > save date under "commit changes") 
 
 ### Add GeoJSON and csv to GitHub repository
 
