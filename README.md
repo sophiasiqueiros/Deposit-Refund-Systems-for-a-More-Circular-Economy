@@ -3,19 +3,18 @@
 
 ## Steps to Create Map 
 
-### Create Google sheet
-1. Label columns. 
-  1. If url needed, create two columns: citation column (citation-#-title) and url column (citation-#-url). 
+### Create Google sheet and convert to CSV
+1. Label columns.  
 1. Each row is a different record. Insert data into rows.
+1. If linked url needed, create two columns: citation column ("citation-#-title") and url column ("citation-#-url").
 1. Export to csv. (Click "File" > "Download" > "Comma-Separated Values") 
 
-### Create GeoJSON from csv
+### Convert csv to GeoJSON 
 1. Download csv to your computer. 
 1. Upload csv file to [Convert CSV to GeoJSON](http://convertcsv.com/csv-to-geojson.htm)
-1. Convert to GeoJSON. 
-1. Download GeoJSON and name file with date (XX-XX-XXXX). 
+1. Download GeoJSON and name file with date: XX-XX-XXXX. 
 
-### Add GeoJSON and csv to github repository
+### Add GeoJSON and csv to GitHub repository
 
 ### To add map TBD
 
