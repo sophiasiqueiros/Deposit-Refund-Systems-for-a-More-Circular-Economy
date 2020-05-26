@@ -1,12 +1,12 @@
 # Deposit Refund Systems for a More Circular Economy
 
 
-## How to use
+## Steps to Create Map 
 
 ### Create Google sheet
 1. Label columns. 
+  1. If url needed, create two columns: citation column (citation-#-title) and url column (citation-#-url). 
 1. Each row is a different record. Insert data into rows.
-1. If url needed, create two columms: citation column and url column. 
 1. Export to csv. (Click "File" > "Download" > "Comma-Separated Values") 
 
 ### Create GeoJSON from csv
