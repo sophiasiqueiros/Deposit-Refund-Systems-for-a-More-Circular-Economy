@@ -4,17 +4,16 @@
 ## How to use
 
 ### Create Google sheet
-1. name columns
-1. add data
-1. each url needs a name and a url column
-1. each row is a different record
-1. export to csv
+1. Label columns. 
+1. Each row is a different record. Insert data into rows.
+1. If url needed, create two columms: citation column and url column. 
+1. Export to csv. (Click "File" > "Download" > "Comma-Separated Values") 
 
 ### Create GeoJSON from csv
-1. download csv to your computer
-1. upload file [Convert CSV to GeoJSON](http://convertcsv.com/csv-to-geojson.htm)
-1. convert to geojson
-1. download and name file with date
+1. Download csv to your computer. 
+1. Upload csv file to [Convert CSV to GeoJSON](http://convertcsv.com/csv-to-geojson.htm)
+1. Convert to GeoJSON. 
+1. Download GeoJSON and name file with date (XX-XX-XXXX). 
 
 ### Add GeoJSON and csv to github repository
 
