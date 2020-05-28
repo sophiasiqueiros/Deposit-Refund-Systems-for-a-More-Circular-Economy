@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta charset="utf-8"/>
+</head>
+<body>
+
+<h1 id="depositrefundsystemsforamorecirculareconomy">Deposit Refund Systems for a More Circular Economy</h1>
+
+<h2 id="stepstocreatemap">Steps to Create Map</h2>
+
+<h3 id="creategooglesheetandconverttocsv">Create Google sheet and convert to CSV</h3>
+
+<ol>
+<li>Label columns. If linked url needed, create two columns: citation column (named &#8220;citation-#-title&#8221;) and url column (named &#8220;citation-#-url&#8221;).</li>
+<li>Each row is a different record. Insert data into rows.</li>
+<li>Once data entry is completed. Convert to csv and download to your computer. (&#8220;File&#8221; &gt; &#8220;Download&#8221; &gt; &#8220;Comma-Separated Values&#8221;)</li>
+</ol>
+
+<h3 id="convertcsvtogeojson">Convert csv to GeoJSON</h3>
+
+<ol>
+<li>Upload csv file to <a href="http://convertcsv.com/csv-to-geojson.htm">Convert CSV to GeoJSON</a></li>
+<li>Download GeoJSON to computer, upload to GitHub, and name with date. (On GitHub click &#8220;data&#8221; &gt; &#8220;upload files&#8221; &gt; save date under &#8220;commit changes&#8221;)</li>
+</ol>
+
+<h3 id="addgeojsonandcsvtogithubrepository">Add GeoJSON and csv to GitHub repository</h3>
+
+<h3 id="toaddmaptbd">To add map TBD</h3>
+
+<h2 id="geojsonlinks">GeoJSON Links</h2>
+
+<ul>
+<li><a href="http://geojson.org/">GeoJSON.org</a></li>
+<li><a href="http://geojson.io">GeoJSON.io</a></li>
+<li><a href="http://convertcsv.com/csv-to-geojson.htm">Convert CSV to GeoJSON</a></li>
+</ul>
+
+<h2 id="mapboxlinks">Mapbox links</h2>
+
+<ul>
+<li><a href="https://www.mapbox.com/">Mapbox</a></li>
+<li><a href="https://docs.mapbox.com/">Mapbox documentation</a></li>
+<li><a href="https://docs.mapbox.com/mapbox.js/api/v3.2.1/">Mapbox JS API</a></li>
+<li><a href="https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/">Add custom markers in Mapbox GL JS</a></li>
+<li><a href="https://www.mapbox.com/maki-icons/">Maki Icons | By Mapbox</a></li>
+<li><a href="https://gis.stackexchange.com/questions/219241/list-of-available-marker-symbols">List of built in icons</a></li>
+</ul>
+
+<h2 id="editors">Editors</h2>
+
+<ul>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://desktop.github.com/">GitHub Desktop</a></li>
+</ul>
+
+<h2 id="notes">Notes</h2>
+
+<p>Key-value pairs have a colon between them as in &#8220;key&#8221; : &#8220;value&#8221;. Each key-value pair is separated by a comma, so the middle of a JSON looks like this: &#8220;key&#8221; : &#8220;value&#8221;, &#8220;key&#8221; : &#8220;value&#8221;, &#8220;key&#8221;: &#8220;value&#8221;. In our example above, the first key-value pair is &#8220;first_name&#8221; : &#8220;Sammy&#8221;.</p>
+
+<p>JSON keys are on the left side of the colon. They need to be wrapped in double quotation marks, as in &#8220;key&#8221;, and can be any valid string. Within each object, keys need to be unique. These key strings can include whitespaces, as in &#8220;first name&#8221;, but that can make it harder to access when you’re programming, so it’s best to use underscores, as in &#8220;first_name&#8221;.</p>
+
+</body>
+</html>
+

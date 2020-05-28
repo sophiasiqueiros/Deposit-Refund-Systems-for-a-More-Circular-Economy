@@ -33,3 +33,9 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Atom](https://atom.io/)
 * [GitHub Desktop](https://desktop.github.com/)
+
+
+## Notes
+Key-value pairs have a colon between them as in "key" : "value". Each key-value pair is separated by a comma, so the middle of a JSON looks like this: "key" : "value", "key" : "value", "key": "value". In our example above, the first key-value pair is "first_name" : "Sammy".
+
+JSON keys are on the left side of the colon. They need to be wrapped in double quotation marks, as in "key", and can be any valid string. Within each object, keys need to be unique. These key strings can include whitespaces, as in "first name", but that can make it harder to access when you’re programming, so it’s best to use underscores, as in "first_name".
