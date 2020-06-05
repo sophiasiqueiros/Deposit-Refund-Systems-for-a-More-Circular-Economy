@@ -7,7 +7,9 @@ Plastic is a ubiquitous part of everyday life and affords humans great ease; how
 
 Please explore this site to learn more about Deposit-Refund Systems and how to contribute your own knowledge to the “Deposit Refund Systems for a More Circular Economy” Map. 
 
-*Thank you, Sophia Siqueiros and Dr. Magali Delmas*  
+Thank you, 
+
+*Sophia Siqueiros and Dr. Magali Delmas*  
 
 ## Contributors 
 
