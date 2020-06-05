@@ -9,58 +9,12 @@
     <meta name="viewport"
       content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
-    <script
-      src="js/mapbox-gl.js"></script>
-    <link href="css/mapbox-gl.css"
-      rel="stylesheet" />
-
-    <style>
-      body {
-        display: grid;
-        font-family: 'Courier New', Courier, monospace;
-      }
-
-      header {
-        grid-row: 1;
-        justify-self: center;
-      }
-
-      main {
-        grid-row: 2;
+    <script src="js/mapbox-gl.js"></script>
+    <link href="css/mapbox-gl.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
 
 
-      }
-
-      #map {
-        width: 80vw;
-        min-height: 80vh;
-        margin: auto;
-        outline: 3px solid #00bd30;
-      }
-
-      .marker {
-        background-image: url('img/mapbox-icon.png');
-        background-size: cover;
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        cursor: pointer;
-      }
-
-      .mapboxgl-popup {
-        max-width: 600px;
-      }
-
-      .mapboxgl-popup-content {
-        text-align: left;
-        font-family: 'Open Sans', sans-serif;
-      }
-
-      .mapboxgl-popup-content small a {
-        display: block;
-      }
-
-    </style>
+    
 
 
   </head>
@@ -87,7 +41,7 @@
         container: 'map', // container id
         style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
         center: [-118.445278, 34.069444], // starting position [lng, lat]
-        zoom: 3 // starting zoom
+        zoom: 1 // starting zoom
       });
 
       map.addControl(new mapboxgl.NavigationControl());
@@ -103,7 +57,7 @@
 
             map.addSource('recycle', {
               type: 'geojson',
-              data: './data/deposits.geojson'
+              data: './data/regions.geojson'
             });
 
             map.addLayer({
@@ -126,14 +80,14 @@
             // location of the feature, with description HTML from its properties.
             map.on('click', 'points', function (e) {
               var coordinates = e.features[0].geometry.coordinates.slice();
-              var title = '<h3>'+ e.features[0].properties.title + '</h3>';
+              var title = '<h3>' + e.features[0].properties.title + '</h3>';
               var description = '<p>' + e.features[0].properties.description + '</p>';
               var deposit = '<p>Deposit: ' + e.features[0].properties.deposit + '</p>';
               var containers_covered = '<p>Containers Covered: ' + e.features[0].properties.containers_covered + '</p>';
               var pet_deposit_legislation = '<p>PET Legislation: ' + e.features[0].properties.pet_deposit_legislation + '</p>';
               var pet_consumed = '<p>PET Consumed: ' + e.features[0].properties.pet_consumed + '</p>';
               var pet_recollection_rate = '<p>PET Recollection Rate: ' + e.features[0].properties.pet_recollection_rate + '</p>';
-              var pet_recycling_rate  = '<p>PET Recycling Rate: ' + e.features[0].properties.pet_recycling_rate + '</p>';
+              var pet_recycling_rate = '<p>PET Recycling Rate: ' + e.features[0].properties.pet_recycling_rate + '</p>';
               var state_agency = '<p>State Agency: ' + e.features[0].properties.state_agency + '</p>';
               var citation_1_title = e.features[0].properties.citation_1_title;
               var citation_1_url = e.features[0].properties.citation_1_url;
@@ -161,17 +115,17 @@
               if (citation_1_url.length) {
                 var citation_1 = '<a href=' + citation_1_url + '>' + citation_1_title + '</a>';
               }
-             
+
 
               if (citation_2_url.length) {
                 var citation_2 = '<a href=' + citation_2_url + '>' + citation_2_title + '</a>';
               }
-             
+
 
               if (citation_3_url.length) {
                 var citation_3 = '<a href=' + citation_3_url + '>' + citation_3_title + '</a>';
               }
-             
+
 
               if (citation_4_url.length) {
                 var citation_4 = '<a href=' + citation_4_url + '>' + citation_4_title + '</a>';
@@ -190,8 +144,8 @@
               }
 
               var citations = citation_1 + citation_2 + citation_3 + citation_4 + citation_5 + citation_6 + citation_7;
-              
-              
+
+
               // Ensure that if the map is zoomed out such that multiple
               // copies of the feature are visible, the popup appears
               // over the copy being pointed to.
@@ -201,7 +155,7 @@
 
               new mapboxgl.Popup()
                 .setLngLat(coordinates)
-                .setHTML(title + description + deposit + containers_covered + pet_deposit_legislation + pet_consumed + pet_recollection_rate + pet_recycling_rate + state_agency + '<small>Source: ' + citations + '</small>' )
+                .setHTML(title + description + deposit + containers_covered + pet_deposit_legislation + pet_consumed + pet_recollection_rate + pet_recycling_rate + state_agency + '<small>Source: ' + citations + '</small>')
                 .addTo(map);
             });
 

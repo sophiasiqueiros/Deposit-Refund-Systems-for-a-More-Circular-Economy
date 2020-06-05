@@ -8,9 +8,10 @@ html {
 }
 
 body {
+  background-color: #2774ae;
   width: 80vw;
   margin: auto;
-  font-family: 'Lora', serif;
+  font-family: 'helvetica', sans-serif;
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   grid-template-rows: 100px 1fr 100px;
@@ -25,10 +26,52 @@ header {
   justify-self: center;
 }
 
+header {
+  grid-row: 1;
+  justify-self: center;
+}
+
+main {
+  grid-row: 2;
+
+
+}
+
 #map {
   width: 50vw;
   height: 50vh;
   outline: var(--border-style-thick);
+}
+
+#map {
+  width: 80vw;
+  min-height: 80vh;
+  margin: auto;
+  outline: 3px solid #00bd30;
+}
+
+
+
+.marker {
+  background-image: url('img/mapbox-icon.png');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  max-width: 600px;
+}
+
+.mapboxgl-popup-content {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mapboxgl-popup-content small a {
+  display: block;
 }
 
 main {

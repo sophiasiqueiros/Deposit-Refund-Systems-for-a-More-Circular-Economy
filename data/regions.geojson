@@ -1374,12 +1374,12 @@
          "geometry":{
             "type":"Point",
             "coordinates":[
-               39.381266,
-               -97.922211
+               40,
+               -100
             ]
          },
          "properties":{
-            "title":"USA ",
+            "title":"USA",
             "marker-size":"large",
             "marker-symbol":"waste-basket",
             "marker-color":"#E15B6C",
