@@ -1,7 +1,27 @@
 # Deposit Refund Systems for a More Circular Economy
 
+
+## Abstract & Description 
+
+Plastic is a ubiquitous part of everyday life and affords humans great ease; however, only a small percentage of plastic is recycled worldwide and companies continue to produce plastic, resulting in enormous amounts of carbon emissions being released each year. Since the 1970s, numerous countries and local governments have implemented Deposit-Refund Systems (DRS) on beverage packaging and other items to curb plastic waste. DRSs shift the cost of recycling from taxpayers to producers, by having consumes pay an extra charge when items such as plastic bottles are purchased or used, which is only paid back upon their return. Once returned, beverage companies then collect and pay for items to be recycled. Although individual case studies have explored DRSs, there is no comprehensive source of information on the types of DRS strategies that are used and their effectiveness. This study collected data on existing DRSs worldwide, identified the most effective DRS policies, and created an online bottle deposit database with case studies from over twenty countries to which researchers may consult and contribute. This database provides valuable information concerning the international successes and failures of plastic DRS programs in hopes that it will help avoid ill-informed policies that unnecessarily waste time and capital. 
+
+Please explore this site to learn more about Deposit-Refund Systems and how to contribute your own knowledge to the “Deposit Refund Systems for a More Circular Economy” Map. 
+
+*Thank you, Sophia Siqueiros and Dr. Magali Delmas*  
+
+## Contributors 
+
+* Scott Gruber
+* Sustainable Los Angeles Undergraduate Research Scholars Program 
+
+
 ## Links
 * [Prezi Presentation: *Creating a Deposit-Refund System*](https://prezi.com/view/XxnK7C87WarT9tln7qJG/)
+
+
+## Frequently Asked Questions 
+
+
 
 
 ## Steps to Create Map 
