@@ -73,11 +73,9 @@ If you use this map, please cite with the following format: Siqueiros, Sophia. "
 ## Files
 
 ```
-.
 ├── README.md
 ├── css
 │   ├── mapbox-gl.css
-│   ├── styles-min.css
 │   └── styles.css
 ├── data
 │   ├── regions.csv
