@@ -23,31 +23,36 @@ body {
 
 header {
   grid-area: h;
-  justify-self: center;
-}
-
-header {
   grid-row: 1;
   justify-self: center;
 }
 
-main {
-  grid-row: 2;
-
-
+header h1 {
+  color: white;
+  font-size: 2.4rem;
+  font-weight: 200;
+  padding-bottom: 1em;
 }
 
-#map {
-  width: 50vw;
-  height: 50vh;
-  outline: var(--border-style-thick);
+main {
+  grid-row: 2;
+}
+
+main .intro {
+  color: white;
+  max-width: 45em;
 }
 
 #map {
   width: 80vw;
   min-height: 80vh;
   margin: auto;
-  outline: 3px solid #00bd30;
+  outline: 6px solid #ffd100;
+  box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.4);
+}
+
+main a {
+  color: inherit;
 }
 
 
