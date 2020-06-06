@@ -67,3 +67,34 @@ Thank you,
 ## Credits
 
 If you use this map, please cite with the following format: Siqueiros, Sophia. "Deposit-Refund Systems for a More Circular Economy." [Github Map Created June 2020]. Retrieved from https://sophiasiqueiros.github.io/deposit-refund-systems/. Date Viewed.
+
+---
+
+## Files
+
+```
+.
+├── README.md
+├── css
+│   ├── mapbox-gl.css
+│   ├── styles-min.css
+│   └── styles.css
+├── data
+│   ├── regions.csv
+│   └── regions.geojson
+├── img
+│   ├── mapbox-icon.png
+│   ├── recycling-bottle.png
+│   ├── recycling-bottle.svg
+│   ├── recycling-bottle@2x.png
+│   ├── recycling-bottle@3x.png
+│   └── waste-basket-15.svg
+├── index.html
+├── js
+│   ├── main.js
+│   └── mapbox-gl.js
+└── report
+    └── Abstract-Draft.pdf
+
+5 directories, 18 files
+```
