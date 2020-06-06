@@ -19,7 +19,7 @@ map.on('load', function () {
 
       map.addSource('recycle', {
         type: 'geojson',
-        data: '../data/regions.geojson'
+        data: './data/regions.geojson'
       });
 
       map.addLayer({
