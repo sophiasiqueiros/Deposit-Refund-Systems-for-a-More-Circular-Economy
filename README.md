@@ -94,5 +94,4 @@ If you use this map, please cite with the following format: Siqueiros, Sophia. "
 └── report
     └── Abstract-Draft.pdf
 
-5 directories, 18 files
 ```
