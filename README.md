@@ -22,8 +22,6 @@ Thank you,
 * [Video Recording of Prezi Presentation: *Creating a Deposit-Refund System*](https://youtu.be/tZzCCJNO5e0)
 
 
-## Frequently Asked Questions 
-
 
 ---
 
